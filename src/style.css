@@ -1,0 +1,8 @@
+.hello {
+  color: red;
+  background: url('./app_screenshot.png');
+}
+
+body {
+    background-color: bisque;
+}
